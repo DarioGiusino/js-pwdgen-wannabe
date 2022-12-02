@@ -33,5 +33,5 @@ const userColor = prompt('Inserisci adesso il tuo colore preferito:', 'Nero');
 ////console.log(userColor);
 
 // Riempo titolo e campo password
-password.innerText = userName + userSurname + userColor;
+password.innerText = userName + userSurname + userColor + '21';
 nameTitle.innerText = userName;
